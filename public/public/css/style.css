@@ -1,0 +1,93 @@
+
+
+.blogDesc {
+    border-style: solid;
+    margin-bottom: 5px;
+    padding: 2px;
+    background-color: rgb(113, 143, 62);
+  }
+  
+  .blogDescMain {
+    font-weight: 700;
+  }
+  
+  .blogDescTwo {
+    font-size: 25px;
+    font-style: italic;
+  }
+  
+  .blogCreate {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 12px;
+    padding: 5px;
+    color: darkkhaki;
+  }
+  
+  .blogBoxCont {
+      margin-top: 10px;
+    border-style: solid;
+    background-color: rgb(113, 143, 62);
+  }
+  
+  .formCont {
+    margin-top: 10px;
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  
+  .commentCont {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    max-width: 75%;
+    background-color: rgb(113, 143, 62);
+  }
+  
+  .commentOwner {
+    font-size: 14px;
+  }
+  
+  .btnComment {
+    margin-top: 10px;
+  }
+  
+  .commentText {
+    font-weight: bold;
+    padding-top: 10px;
+    background-color: rgb(113, 143, 62);
+  }
+  
+  .commentCont {
+    border-style: dashed;
+  }
+  
+  .headerRow {
+    background-color: black;
+    margin-bottom: 10px;
+  }
+  
+  a:link {
+    color: rgb(23, 188, 200);
+  }
+  a:visited {
+    color: rgb(41, 62, 182);
+  }
+  
+  a:hover {
+    color: rgb(6, 252, 236);
+  }
+  
+  .login{
+      margin-left: 25px;
+  }
+  
+  .signup{
+      margin-left: 25px;
+  }
+  
+  .form-group{
+      margin-top: 10px;
+  }
