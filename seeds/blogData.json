@@ -1,6 +1,8 @@
 [
     {
       "title": "Test Blog",
-      "description": "Test"
+      "description": "Test",
+      "date_created": "September 21, 2023",
+      "user_id": 1
     }
   ]

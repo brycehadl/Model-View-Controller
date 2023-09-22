@@ -1,7 +1,8 @@
 [
 	{
-		"blog_id": 1,
-		"comment_description": "Test comment",
-		"user_id": 1
+		"comment_body": "Rest is for quitters",
+		"date_created": "August 11, 2002",
+		"user_id": 1,
+		"blogPost_id": 1
 	}
 ]
