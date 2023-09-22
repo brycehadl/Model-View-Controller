@@ -11,6 +11,10 @@
         "type": "git",
         "url": "https://github.com/brycehadl/Model-View-Controller.git"
     },
+    "engine": {
+        "node": "12.16.2",
+        "npm": "10.1.0"
+    },
     "keywords": [],
     "author": "",
     "license": "ISC",
